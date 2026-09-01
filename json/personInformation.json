@@ -1,0 +1,15 @@
+{
+  "firstName": "John",
+  "middleName": "Michael",
+  "lastName": "Doe",
+  "dateOfBirth": "2000-05-15",
+  "gender": "Male",
+  "email": "john.doe@example.com",
+  "phoneNumber": "9876543210",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Kathmandu",
+    "district": "Kathmandu",
+    "country": "Nepal"
+  }
+}
